@@ -8,3 +8,4 @@ CSVs, JSON files, etc
 - https://github.com/GSA/data
 - https://github.com/GoogleTrends/data
 - https://github.com/fivethirtyeight/data
+- https://datahub.io/core/geo-countries#javascript (Country Polygons as GeoJSON)
