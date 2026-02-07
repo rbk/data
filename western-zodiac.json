@@ -1,0 +1,134 @@
+[
+  {
+    "sign": "Aries",
+    "dates": "March 21 - April 19",
+    "element": "Fire",
+    "modality": "Cardinal",
+    "ruling_planet": "Mars",
+    "symbol": "Ram",
+    "strengths": ["Courageous", "Determined", "Confident", "Enthusiastic", "Optimistic", "Honest", "Passionate"],
+    "weaknesses": ["Impatient", "Moody", "Short-tempered", "Impulsive", "Aggressive"],
+    "icon": "a"
+  },
+  {
+    "sign": "Taurus",
+    "dates": "April 20 - May 20",
+    "element": "Earth",
+    "modality": "Fixed",
+    "ruling_planet": "Venus",
+    "symbol": "Bull",
+    "strengths": ["Reliable", "Patient", "Practical", "Devoted", "Responsible", "Stable"],
+    "weaknesses": ["Stubborn", "Possessive", "Uncompromising"],
+    "icon": "b"
+  },
+  {
+    "sign": "Gemini",
+    "dates": "May 21 - June 20",
+    "element": "Air",
+    "modality": "Mutable",
+    "ruling_planet": "Mercury",
+    "symbol": "Twins",
+    "strengths": ["Gentle", "Affectionate", "Curious", "Adaptable", "Quick learner"],
+    "weaknesses": ["Nervous", "Inconsistent", "Indecisive"],
+    "icon": "c"
+  },
+  {
+    "sign": "Cancer",
+    "dates": "June 21 - July 22",
+    "element": "Water",
+    "modality": "Cardinal",
+    "ruling_planet": "Moon",
+    "symbol": "Crab",
+    "strengths": ["Tenacious", "Highly imaginative", "Loyal", "Emotional", "Sympathetic", "Persuasive"],
+    "weaknesses": ["Moody", "Pessimistic", "Suspicious", "Manipulative", "Insecure"],
+    "icon": "d"
+  },
+  {
+    "sign": "Leo",
+    "dates": "July 23 - August 22",
+    "element": "Fire",
+    "modality": "Fixed",
+    "ruling_planet": "Sun",
+    "symbol": "Lion",
+    "strengths": ["Creative", "Passionate", "Generous", "Warm-hearted", "Cheerful", "Humorous"],
+    "weaknesses": ["Arrogant", "Stubborn", "Self-centered", "Lazy", "Inflexible"],
+    "icon": "e"
+  },
+  {
+    "sign": "Virgo",
+    "dates": "August 23 - September 22",
+    "element": "Earth",
+    "modality": "Mutable",
+    "ruling_planet": "Mercury",
+    "symbol": "Virgin",
+    "strengths": ["Loyal", "Analytical", "Kind", "Hardworking", "Practical"],
+    "weaknesses": ["Shyness", "Worry", "Overly critical", "All work and no play"],
+    "icon": "f"
+  },
+  {
+    "sign": "Libra",
+    "dates": "September 23 - October 22",
+    "element": "Air",
+    "modality": "Cardinal",
+    "ruling_planet": "Venus",
+    "symbol": "Scales",
+    "strengths": ["Cooperative", "Diplomatic", "Gracious", "Fair-minded", "Social"],
+    "weaknesses": ["Indecisive", "Avoids confrontations", "Will carry a grudge", "Self-pity"],
+    "icon": "g"
+  },
+  {
+    "sign": "Scorpio",
+    "dates": "October 23 - November 21",
+    "element": "Water",
+    "modality": "Fixed",
+    "ruling_planet": "Pluto",
+    "symbol": "Scorpion",
+    "strengths": ["Resourceful", "Brave", "Passionate", "Stubborn", "A true friend"],
+    "weaknesses": ["Distrusting", "Jealous", "Secretive", "Violent"],
+    "icon": "h"
+  },
+  {
+    "sign": "Sagittarius",
+    "dates": "November 22 - December 21",
+    "element": "Fire",
+    "modality": "Mutable",
+    "ruling_planet": "Jupiter",
+    "symbol": "Archer",
+    "strengths": ["Generous", "Idealistic", "Great sense of humor"],
+    "weaknesses": ["Promises more than can deliver", "Very impatient", "Will say anything no matter how undiplomatic"],
+    "icon": "i"
+  },
+  {
+    "sign": "Capricorn",
+    "dates": "December 22 - January 19",
+    "element": "Earth",
+    "modality": "Cardinal",
+    "ruling_planet": "Saturn",
+    "symbol": "Goat",
+    "strengths": ["Responsible", "Disciplined", "Self-control", "Good managers"],
+    "weaknesses": ["Know-it-all", "Unforgiving", "Condescending", "Expecting the worst"],
+    "icon": "j"
+  },
+  {
+    "sign": "Aquarius",
+    "dates": "January 20 - February 18",
+    "element": "Air",
+    "modality": "Fixed",
+    "ruling_planet": "Uranus",
+    "symbol": "Water Bearer",
+    "strengths": ["Progressive", "Original", "Independent", "Humanitarian"],
+    "weaknesses": ["Runs from emotional expression", "Temperamental", "Uncompromising", "Aloof"],
+    "icon": "k"
+  },
+  {
+    "sign": "Pisces",
+    "dates": "February 19 - March 20",
+    "element": "Water",
+    "modality": "Mutable",
+    "ruling_planet": "Neptune",
+    "symbol": "Fish",
+    "strengths": ["Compassionate", "Artistic", "Intuitive", "Gentle", "Wise", "Musical"],
+    "weaknesses": ["Fearful", "Overly trusting", "Sad", "Desire to escape reality", "Can be a victim or a martyr"],
+    "icon": "l"
+  }
+]

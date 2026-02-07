@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Zeus",
+    "description": "King of the gods, god of the sky, lightning, and thunder",
+    "symbols": [
+      "Thunderbolt",
+      "Eagle",
+      "Oak Tree"
+    ],
+    "consorts": [
+      "Hera",
+      "Leto",
+      "Maia",
+      "Semele"
+    ],
+    "children": [
+      "Ares",
+      "Hephaestus",
+      "Hermes",
+      "Apollo",
+      "Artemis",
+      "Athena",
+      "Dionysus"
+    ]
+  },
+  {
+    "name": "Poseidon",
+    "description": "God of the sea, earthquakes, floods, droughts, and horses",
+    "symbols": [
+      "Trident",
+      "Horse",
+      "Dolphin"
+    ],
+    "consorts": [
+      "Amphitrite"
+    ],
+    "children": [
+      "Triton",
+      "Theseus"
+    ]
+  },
+  {
+    "name": "Hades",
+    "description": "God of the underworld and mineral wealth",
+    "symbols": [
+      "Cerberus",
+      "Cypress Tree",
+      "Narcissus Flower"
+    ]
+  },
+  {
+    "name": "Athena",
+    "description": "Goddess of wisdom, handicrafts, and defensive war",
+    "symbols": [
+      "Owl",
+      "Olive Tree",
+      "Snake",
+      "Aegis"
+    ],
+    "children": [
+      "Erichthonius"
+    ]
+  },
+  {
+    "name": "Apollo",
+    "description": "God of music, prophecy, healing, and plague",
+    "symbols": [
+      "Lyre",
+      "Laurel Tree",
+      "Python"
+    ],
+    "consorts": [
+      "Daphne"
+    ],
+    "children": [
+      "Asclepius"
+    ]
+  },
+  {
+    "name": "Aphrodite",
+    "description": "Goddess of love, beauty, pleasure, and procreation",
+    "symbols": [
+      "Dove",
+      "Rose",
+      "Scallop Shell",
+      "Myrtle"
+    ],
+    "consorts": [
+      "Ares",
+      "Hephaestus"
+    ],
+    "children": [
+      "Eros"
+    ]
+  },
+  {
+    "name": "Ares",
+    "description": "God of war, violence, and bloodshed",
+    "symbols": [
+      "Spear",
+      "Helmet",
+      "Chariot",
+      "Dog",
+      "Vulture"
+    ],
+    "children": [
+      "Phobos",
+      "Deimos",
+      "Eros",
+      "Anteros"
+    ]
+  },
+  {
+    "name": "Artemis",
+    "description": "Goddess of the hunt, wilderness, and moon",
+    "symbols": [
+      "Bow and Arrow",
+      "Deer",
+      "Moon"
+    ],
+    "consorts": [
+      "Orion"
+    ],
+    "children": [
+      "Iphigenia"
+    ]
+  },
+  {
+    "name": "Hephaestus",
+    "description": "God of fire, blacksmiths, craftsmen, and volcanoes",
+    "symbols": [
+      "Anvil",
+      "Tongs",
+      "Volcano"
+    ],
+    "children": [
+      "Erichthonius"
+    ]
+  }
+]

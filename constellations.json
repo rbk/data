@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Andromeda",
+    "meaning": "The Chained Maiden",
+    "brightestStar": "Alpheratz",
+    "area": 722,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Antlia",
+    "meaning": "The Air Pump",
+    "brightestStar": "Alpha Antliae",
+    "area": 239,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Apus",
+    "meaning": "The Bird of Paradise",
+    "brightestStar": "Alpha Apodis",
+    "area": 206,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Aquarius",
+    "meaning": "The Water Bearer",
+    "brightestStar": "Sadalsuud",
+    "area": 980,
+    "hemisphere": "Equatorial",
+    "zodiac": true
+  },
+  {
+    "name": "Aquila",
+    "meaning": "The Eagle",
+    "brightestStar": "Altair",
+    "area": 652,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Ara",
+    "meaning": "The Altar",
+    "brightestStar": "Beta Arae",
+    "area": 237,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Aries",
+    "meaning": "The Ram",
+    "brightestStar": "Hamal",
+    "area": 441,
+    "hemisphere": "Northern",
+    "zodiac": true
+  },
+  {
+    "name": "Auriga",
+    "meaning": "The Charioteer",
+    "brightestStar": "Capella",
+    "area": 657,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Boötes",
+    "meaning": "The Herdsman",
+    "brightestStar": "Arcturus",
+    "area": 907,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Caelum",
+    "meaning": "The Chisel",
+    "brightestStar": "Alpha Caeli",
+    "area": 125,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Camelopardalis",
+    "meaning": "The Giraffe",
+    "brightestStar": "Beta Camelopardalis",
+    "area": 757,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Cancer",
+    "meaning": "The Crab",
+    "brightestStar": "Al Tarf",
+    "area": 506,
+    "hemisphere": "Northern",
+    "zodiac": true
+  },
+  {
+    "name": "Canes Venatici",
+    "meaning": "The Hunting Dogs",
+    "brightestStar": "Cor Caroli",
+    "area": 465,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Canis Major",
+    "meaning": "The Great Dog",
+    "brightestStar": "Sirius",
+    "area": 380,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Canis Minor",
+    "meaning": "The Lesser Dog",
+    "brightestStar": "Procyon",
+    "area": 183,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Capricornus",
+    "meaning": "The Sea Goat",
+    "brightestStar": "Deneb Algedi",
+    "area": 414,
+    "hemisphere": "Southern",
+    "zodiac": true
+  },
+  {
+    "name": "Carina",
+    "meaning": "The Keel",
+    "brightestStar": "Canopus",
+    "area": 494,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Cassiopeia",
+    "meaning": "The Queen",
+    "brightestStar": "Schedar",
+    "area": 598,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Centaurus",
+    "meaning": "The Centaur",
+    "brightestStar": "Alpha Centauri",
+    "area": 1060,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Cepheus",
+    "meaning": "The King",
+    "brightestStar": "Alderamin",
+    "area": 588,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Cetus",
+    "meaning": "The Whale",
+    "brightestStar": "Diphda",
+    "area": 1231,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Chamaeleon",
+    "meaning": "The Chameleon",
+    "brightestStar": "Alpha Chamaeleontis",
+    "area": 132,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Circinus",
+    "meaning": "The Compass",
+    "brightestStar": "Alpha Circini",
+    "area": 93,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Columba",
+    "meaning": "The Dove",
+    "brightestStar": "Phact",
+    "area": 270,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Coma Berenices",
+    "meaning": "Berenice's Hair",
+    "brightestStar": "Beta Comae Berenices",
+    "area": 386,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Corona Australis",
+    "meaning": "The Southern Crown",
+    "brightestStar": "Alphekka Meridiana",
+    "area": 128,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Corona Borealis",
+    "meaning": "The Northern Crown",
+    "brightestStar": "Alphecca",
+    "area": 179,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Corvus",
+    "meaning": "The Crow",
+    "brightestStar": "Gienah",
+    "area": 184,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Crater",
+    "meaning": "The Cup",
+    "brightestStar": "Delta Crateris",
+    "area": 282,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Crux",
+    "meaning": "The Southern Cross",
+    "brightestStar": "Acrux",
+    "area": 68,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Cygnus",
+    "meaning": "The Swan",
+    "brightestStar": "Deneb",
+    "area": 804,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Delphinus",
+    "meaning": "The Dolphin",
+    "brightestStar": "Rotanev",
+    "area": 189,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Dorado",
+    "meaning": "The Dolphinfish",
+    "brightestStar": "Alpha Doradus",
+    "area": 179,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Draco",
+    "meaning": "The Dragon",
+    "brightestStar": "Eltanin",
+    "area": 1083,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Equuleus",
+    "meaning": "The Little Horse",
+    "brightestStar": "Kitalpha",
+    "area": 72,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Eridanus",
+    "meaning": "The River",
+    "brightestStar": "Achernar",
+    "area": 1138,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Fornax",
+    "meaning": "The Furnace",
+    "brightestStar": "Dalim",
+    "area": 398,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Gemini",
+    "meaning": "The Twins",
+    "brightestStar": "Pollux",
+    "area": 514,
+    "hemisphere": "Northern",
+    "zodiac": true
+  },
+  {
+    "name": "Grus",
+    "meaning": "The Crane",
+    "brightestStar": "Alnair",
+    "area": 366,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Hercules",
+    "meaning": "The Hero",
+    "brightestStar": "Kornephoros",
+    "area": 1225,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Horologium",
+    "meaning": "The Clock",
+    "brightestStar": "Alpha Horologii",
+    "area": 249,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Hydra",
+    "meaning": "The Water Snake",
+    "brightestStar": "Alphard",
+    "area": 1303,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Hydrus",
+    "meaning": "The Lesser Water Snake",
+    "brightestStar": "Beta Hydri",
+    "area": 243,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Indus",
+    "meaning": "The Indian",
+    "brightestStar": "Alpha Indi",
+    "area": 294,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Lacerta",
+    "meaning": "The Lizard",
+    "brightestStar": "Alpha Lacertae",
+    "area": 201,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Leo",
+    "meaning": "The Lion",
+    "brightestStar": "Regulus",
+    "area": 947,
+    "hemisphere": "Northern",
+    "zodiac": true
+  },
+  {
+    "name": "Leo Minor",
+    "meaning": "The Lesser Lion",
+    "brightestStar": "Praecipua",
+    "area": 232,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Lepus",
+    "meaning": "The Hare",
+    "brightestStar": "Arneb",
+    "area": 290,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Libra",
+    "meaning": "The Scales",
+    "brightestStar": "Zubeneschamali",
+    "area": 538,
+    "hemisphere": "Southern",
+    "zodiac": true
+  },
+  {
+    "name": "Lupus",
+    "meaning": "The Wolf",
+    "brightestStar": "Alpha Lupi",
+    "area": 334,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Lynx",
+    "meaning": "The Lynx",
+    "brightestStar": "Alpha Lyncis",
+    "area": 545,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Lyra",
+    "meaning": "The Lyre",
+    "brightestStar": "Vega",
+    "area": 286,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Mensa",
+    "meaning": "The Table Mountain",
+    "brightestStar": "Alpha Mensae",
+    "area": 153,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Microscopium",
+    "meaning": "The Microscope",
+    "brightestStar": "Gamma Microscopii",
+    "area": 210,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Monoceros",
+    "meaning": "The Unicorn",
+    "brightestStar": "Beta Monocerotis",
+    "area": 482,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Musca",
+    "meaning": "The Fly",
+    "brightestStar": "Alpha Muscae",
+    "area": 138,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Norma",
+    "meaning": "The Carpenter's Square",
+    "brightestStar": "Gamma Normae",
+    "area": 165,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Octans",
+    "meaning": "The Octant",
+    "brightestStar": "Nu Octantis",
+    "area": 291,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Ophiuchus",
+    "meaning": "The Serpent Bearer",
+    "brightestStar": "Rasalhague",
+    "area": 948,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Orion",
+    "meaning": "The Hunter",
+    "brightestStar": "Rigel",
+    "area": 594,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Pavo",
+    "meaning": "The Peacock",
+    "brightestStar": "Peacock",
+    "area": 378,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Pegasus",
+    "meaning": "The Winged Horse",
+    "brightestStar": "Enif",
+    "area": 1121,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Perseus",
+    "meaning": "The Hero",
+    "brightestStar": "Mirfak",
+    "area": 615,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Phoenix",
+    "meaning": "The Phoenix",
+    "brightestStar": "Ankaa",
+    "area": 469,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Pictor",
+    "meaning": "The Painter's Easel",
+    "brightestStar": "Alpha Pictoris",
+    "area": 247,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Pisces",
+    "meaning": "The Fish",
+    "brightestStar": "Alpherg",
+    "area": 889,
+    "hemisphere": "Northern",
+    "zodiac": true
+  },
+  {
+    "name": "Piscis Austrinus",
+    "meaning": "The Southern Fish",
+    "brightestStar": "Fomalhaut",
+    "area": 245,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Puppis",
+    "meaning": "The Stern",
+    "brightestStar": "Naos",
+    "area": 673,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Pyxis",
+    "meaning": "The Compass",
+    "brightestStar": "Alpha Pyxidis",
+    "area": 221,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Reticulum",
+    "meaning": "The Reticle",
+    "brightestStar": "Alpha Reticuli",
+    "area": 114,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Sagitta",
+    "meaning": "The Arrow",
+    "brightestStar": "Gamma Sagittae",
+    "area": 80,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Sagittarius",
+    "meaning": "The Archer",
+    "brightestStar": "Kaus Australis",
+    "area": 867,
+    "hemisphere": "Southern",
+    "zodiac": true
+  },
+  {
+    "name": "Scorpius",
+    "meaning": "The Scorpion",
+    "brightestStar": "Antares",
+    "area": 497,
+    "hemisphere": "Southern",
+    "zodiac": true
+  },
+  {
+    "name": "Sculptor",
+    "meaning": "The Sculptor",
+    "brightestStar": "Alpha Sculptoris",
+    "area": 475,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Scutum",
+    "meaning": "The Shield",
+    "brightestStar": "Alpha Scuti",
+    "area": 109,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Serpens",
+    "meaning": "The Serpent",
+    "brightestStar": "Unukalhai",
+    "area": 637,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Sextans",
+    "meaning": "The Sextant",
+    "brightestStar": "Alpha Sextantis",
+    "area": 314,
+    "hemisphere": "Equatorial",
+    "zodiac": false
+  },
+  {
+    "name": "Taurus",
+    "meaning": "The Bull",
+    "brightestStar": "Aldebaran",
+    "area": 797,
+    "hemisphere": "Northern",
+    "zodiac": true
+  },
+  {
+    "name": "Telescopium",
+    "meaning": "The Telescope",
+    "brightestStar": "Alpha Telescopii",
+    "area": 252,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Triangulum",
+    "meaning": "The Triangle",
+    "brightestStar": "Beta Trianguli",
+    "area": 132,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Triangulum Australe",
+    "meaning": "The Southern Triangle",
+    "brightestStar": "Atria",
+    "area": 110,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Tucana",
+    "meaning": "The Toucan",
+    "brightestStar": "Alpha Tucanae",
+    "area": 295,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Ursa Major",
+    "meaning": "The Great Bear",
+    "brightestStar": "Alioth",
+    "area": 1280,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Ursa Minor",
+    "meaning": "The Little Bear",
+    "brightestStar": "Polaris",
+    "area": 256,
+    "hemisphere": "Northern",
+    "zodiac": false
+  },
+  {
+    "name": "Vela",
+    "meaning": "The Sails",
+    "brightestStar": "Gamma Velorum",
+    "area": 500,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Virgo",
+    "meaning": "The Virgin",
+    "brightestStar": "Spica",
+    "area": 1294,
+    "hemisphere": "Equatorial",
+    "zodiac": true
+  },
+  {
+    "name": "Volans",
+    "meaning": "The Flying Fish",
+    "brightestStar": "Beta Volantis",
+    "area": 141,
+    "hemisphere": "Southern",
+    "zodiac": false
+  },
+  {
+    "name": "Vulpecula",
+    "meaning": "The Fox",
+    "brightestStar": "Anser",
+    "area": 268,
+    "hemisphere": "Northern",
+    "zodiac": false
+  }
+]

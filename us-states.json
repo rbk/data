@@ -1,0 +1,651 @@
+[
+  {
+    "abbreviation": "AL",
+    "name": "Alabama",
+    "motto": "Audemus jura nostra defendere",
+    "cities": [
+      "Montgomery (capital)",
+      "Birmingham",
+      "Mobile",
+      "Huntsville"
+    ],
+    "population": 4903185,
+    "ratified": 1819
+  },
+  {
+    "abbreviation": "AK",
+    "name": "Alaska",
+    "motto": "North to the future",
+    "cities": [
+      "Juneau (capital)",
+      "Anchorage",
+      "Fairbanks"
+    ],
+    "population": 731545,
+    "ratified": 1959
+  },
+  {
+    "abbreviation": "AZ",
+    "name": "Arizona",
+    "motto": "Ditat Deus",
+    "cities": [
+      "Phoenix (capital)",
+      "Tucson",
+      "Mesa",
+      "Chandler"
+    ],
+    "population": 7278717,
+    "ratified": 1912
+  },
+  {
+    "abbreviation": "AR",
+    "name": "Arkansas",
+    "motto": "Regnat populus",
+    "cities": [
+      "Little Rock (capital)",
+      "Fort Smith",
+      "Fayetteville",
+      "Springdale"
+    ],
+    "population": 3017804,
+    "ratified": 1836
+  },
+  {
+    "abbreviation": "CA",
+    "name": "California",
+    "motto": "Eureka",
+    "cities": [
+      "Sacramento (capital)",
+      "Los Angeles",
+      "San Diego",
+      "San Jose"
+    ],
+    "population": 39512223,
+    "ratified": 1850
+  },
+  {
+    "abbreviation": "CO",
+    "name": "Colorado",
+    "motto": "Nil sine numine",
+    "cities": [
+      "Denver (capital)",
+      "Colorado Springs",
+      "Aurora",
+      "Fort Collins"
+    ],
+    "population": 5758736,
+    "ratified": 1876
+  },
+  {
+    "abbreviation": "CT",
+    "name": "Connecticut",
+    "motto": "Qui transtulit sustinet",
+    "cities": [
+      "Hartford (capital)",
+      "Bridgeport",
+      "New Haven",
+      "Stamford"
+    ],
+    "population": 3565287,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "DE",
+    "name": "Delaware",
+    "motto": "Liberty and independence",
+    "cities": [
+      "Dover (capital)",
+      "Wilmington",
+      "Newark",
+      "Middletown"
+    ],
+    "population": 973764,
+    "ratified": 1787
+  },
+  {
+    "abbreviation": "FL",
+    "name": "Florida",
+    "motto": "In God we trust",
+    "cities": [
+      "Tallahassee (capital)",
+      "Jacksonville",
+      "Miami",
+      "Tampa"
+    ],
+    "population": 21477737,
+    "ratified": 1845
+  },
+  {
+    "abbreviation": "GA",
+    "name": "Georgia",
+    "motto": "Wisdom, justice, and moderation",
+    "cities": [
+      "Atlanta (capital)",
+      "Columbus",
+      "Augusta",
+      "Savannah"
+    ],
+    "population": 10617423,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "HI",
+    "name": "Hawaii",
+    "motto": "Ua mau, ke ea o ka aina i ka pono",
+    "cities": [
+      "Honolulu (capital)",
+      "Hilo",
+      "Kailua",
+      "Kaneohe"
+    ],
+    "population": 1415872,
+    "ratified": 1959
+  },
+  {
+    "abbreviation": "ID",
+    "name": "Idaho",
+    "motto": "Esto perpetua",
+    "cities": [
+      "Boise (capital)",
+      "Nampa",
+      "Meridian",
+      "Idaho Falls"
+    ],
+    "population": 1787065,
+    "ratified": 1890
+  },
+  {
+    "abbreviation": "IL",
+    "name": "Illinois",
+    "motto": "State sovereignty, national union",
+    "cities": [
+      "Springfield (capital)",
+      "Chicago",
+      "Aurora",
+      "Joliet"
+    ],
+    "population": 12671821,
+    "ratified": 1818
+  },
+  {
+    "abbreviation": "IN",
+    "name": "Indiana",
+    "motto": "Crossroads of America",
+    "cities": [
+      "Indianapolis (capital)",
+      "Fort Wayne",
+      "Evansville",
+      "South Bend"
+    ],
+    "population": 6732219,
+    "ratified": 1816
+  },
+  {
+    "abbreviation": "IA",
+    "name": "Iowa",
+    "motto": "Our liberties we prize and our rights we will maintain",
+    "cities": [
+      "Des Moines (capital)",
+      "Cedar Rapids",
+      "Davenport",
+      "Sioux City"
+    ],
+    "population": 3155070,
+    "ratified": 1846
+  },
+  {
+    "abbreviation": "KS",
+    "name": "Kansas",
+    "motto": "Ad astra per aspera",
+    "cities": [
+      "Topeka (capital)",
+      "Wichita",
+      "Overland Park",
+      "Kansas City"
+    ],
+    "population": 2913314,
+    "ratified": 1861
+  },
+  {
+    "abbreviation": "KY",
+    "name": "Kentucky",
+    "motto": "United we stand, divided we fall",
+    "cities": [
+      "Frankfort (capital)",
+      "Louisville",
+      "Lexington",
+      "Owensboro"
+    ],
+    "population": 4467673,
+    "ratified": 1792
+  },
+  {
+    "abbreviation": "LA",
+    "name": "Louisiana",
+    "motto": "Union, justice, and confidence",
+    "cities": [
+      "Baton Rouge (capital)",
+      "New Orleans",
+      "Shreveport",
+      "Lafayette"
+    ],
+    "population": 4648794,
+    "ratified": 1812
+  },
+  {
+    "abbreviation": "ME",
+    "name": "Maine",
+    "motto": "Dirigo",
+    "cities": [
+      "Augusta (capital)",
+      "Portland",
+      "Lewiston",
+      "Bangor"
+    ],
+    "population": 1344212,
+    "ratified": 1820
+  },
+  {
+    "abbreviation": "MD",
+    "name": "Maryland",
+    "motto": "Fatti maschii, parole femine",
+    "cities": [
+      "Annapolis (capital)",
+      "Baltimore",
+      "Frederick",
+      "Rockville"
+    ],
+    "population": 6045680,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "MA",
+    "name": "Massachusetts",
+    "motto": "Ense petit placidam sub libertate quietem",
+    "cities": [
+      "Boston (capital)",
+      "Worcester",
+      "Springfield",
+      "Lowell"
+    ],
+    "population": 6892503,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "MI",
+    "name": "Michigan",
+    "motto": "Si quaeris peninsulam amoenam circumspice",
+    "cities": [
+      "Lansing (capital)",
+      "Detroit",
+      "Grand Rapids",
+      "Warren"
+    ],
+    "population": 9986857,
+    "ratified": 1837
+  },
+  {
+    "abbreviation": "MN",
+    "name": "Minnesota",
+    "motto": "L'etoile du nord",
+    "cities": [
+      "Saint Paul (capital)",
+      "Minneapolis",
+      "Rochester",
+      "Duluth"
+    ],
+    "population": 5639632,
+    "ratified": 1858
+  },
+  {
+    "abbreviation": "MS",
+    "name": "Mississippi",
+    "motto": "Virtute et armis",
+    "cities": [
+      "Jackson (capital)",
+      "Gulfport",
+      "Southaven",
+      "Hattiesburg"
+    ],
+    "population": 2976149,
+    "ratified": 1817
+  },
+  {
+    "abbreviation": "MO",
+    "name": "Missouri",
+    "motto": "Salus populi suprema lex esto",
+    "cities": [
+      "Jefferson City (capital)",
+      "Kansas City",
+      "St. Louis",
+      "Springfield"
+    ],
+    "population": 6137428,
+    "ratified": 1821
+  },
+  {
+    "abbreviation": "MT",
+    "name": "Montana",
+    "motto": "Oro y plata",
+    "cities": [
+      "Helena (capital)",
+      "Billings",
+      "Missoula",
+      "Great Falls"
+    ],
+    "population": 1068778,
+    "ratified": 1889
+  },
+  {
+    "abbreviation": "NE",
+    "name": "Nebraska",
+    "motto": "Equality before the law",
+    "cities": [
+      "Lincoln (capital)",
+      "Omaha",
+      "Bellevue",
+      "Grand Island"
+    ],
+    "population": 1934408,
+    "ratified": 1867
+  },
+  {
+    "abbreviation": "NV",
+    "name": "Nevada",
+    "motto": "All for our country",
+    "cities": [
+      "Carson City (capital)",
+      "Las Vegas",
+      "Henderson",
+      "Reno"
+    ],
+    "population": 3080156,
+    "ratified": 1864
+  },
+  {
+    "abbreviation": "NH",
+    "name": "New Hampshire",
+    "motto": "Live free or die",
+    "cities": [
+      "Concord (capital)",
+      "Manchester",
+      "Nashua",
+      "Derry"
+    ],
+    "population": 1359711,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "NJ",
+    "name": "New Jersey",
+    "motto": "Liberty and prosperity",
+    "cities": [
+      "Trenton (capital)",
+      "Newark",
+      "Jersey City",
+      "Paterson"
+    ],
+    "population": 8882190,
+    "ratified": 1787
+  },
+  {
+    "abbreviation": "NM",
+    "name": "New Mexico",
+    "motto": "Crescit eundo",
+    "cities": [
+      "Santa Fe (capital)",
+      "Albuquerque",
+      "Las Cruces",
+      "Rio Rancho"
+    ],
+    "population": 2096829,
+    "ratified": 1912
+  },
+  {
+    "abbreviation": "NY",
+    "name": "New York",
+    "motto": "Excelsior",
+    "cities": [
+      "Albany (capital)",
+      "New York City",
+      "Buffalo",
+      "Rochester"
+    ],
+    "population": 19453561,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "NC",
+    "name": "North Carolina",
+    "motto": "Esse quam videri",
+    "cities": [
+      "Raleigh (capital)",
+      "Charlotte",
+      "Greensboro",
+      "Durham"
+    ],
+    "population": 10488084,
+    "ratified": 1789
+  },
+  {
+    "abbreviation": "ND",
+    "name": "North Dakota",
+    "motto": "Liberty and union, now and forever, one and inseparable",
+    "cities": [
+      "Bismarck (capital)",
+      "Fargo",
+      "Grand Forks",
+      "Minot"
+    ],
+    "population": 762062,
+    "ratified": 1889
+  },
+  {
+    "abbreviation": "OH",
+    "name": "Ohio",
+    "motto": "With God, all things are possible",
+    "cities": [
+      "Columbus (capital)",
+      "Cleveland",
+      "Cincinnati",
+      "Toledo"
+    ],
+    "population": 11689100,
+    "ratified": 1803
+  },
+  {
+    "abbreviation": "OK",
+    "name": "Oklahoma",
+    "motto": "Labor omnia vincit",
+    "cities": [
+      "Oklahoma City (capital)",
+      "Tulsa",
+      "Norman",
+      "Broken Arrow"
+    ],
+    "population": 3956971,
+    "ratified": 1907
+  },
+  {
+    "abbreviation": "OR",
+    "name": "Oregon",
+    "motto": "She flies with her own wings",
+    "cities": [
+      "Salem (capital)",
+      "Portland",
+      "Eugene",
+      "Gresham"
+    ],
+    "population": 4217737,
+    "ratified": 1859
+  },
+  {
+    "abbreviation": "PA",
+    "name": "Pennsylvania",
+    "motto": "Virtue, liberty and independence",
+    "cities": [
+      "Harrisburg (capital)",
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown"
+    ],
+    "population": 12801989,
+    "ratified": 1787
+  },
+  {
+    "abbreviation": "RI",
+    "name": "Rhode Island",
+    "motto": "Hope",
+    "cities": [
+      "Providence (capital)",
+      "Warwick",
+      "Cranston",
+      "Pawtucket"
+    ],
+    "population": 1059361,
+    "ratified": 1790
+  },
+  {
+    "abbreviation": "SC",
+    "name": "South Carolina",
+    "motto": "Dum spiro spero",
+    "cities": [
+      "Columbia (capital)",
+      "Charleston",
+      "North Charleston",
+      "Mount Pleasant"
+    ],
+    "population": 5148714,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "SD",
+    "name": "South Dakota",
+    "motto": "Under God the people rule",
+    "cities": [
+      "Pierre (capital)",
+      "Sioux Falls",
+      "Rapid City",
+      "Aberdeen"
+    ],
+    "population": 884659,
+    "ratified": 1889
+  },
+  {
+    "abbreviation": "TN",
+    "name": "Tennessee",
+    "motto": "Agriculture and commerce",
+    "cities": [
+      "Nashville (capital)",
+      "Memphis",
+      "Knoxville",
+      "Chattanooga"
+    ],
+    "population": 6829174,
+    "ratified": 1796
+  },
+  {
+    "abbreviation": "TX",
+    "name": "Texas",
+    "motto": "Friendship",
+    "cities": [
+      "Austin (capital)",
+      "Houston",
+      "San Antonio",
+      "Dallas"
+    ],
+    "population": 28995881,
+    "ratified": 1845
+  },
+  {
+    "abbreviation": "UT",
+    "name": "Utah",
+    "motto": "Industry",
+    "cities": [
+      "Salt Lake City (capital)",
+      "West Valley City",
+      "Provo",
+      "West Jordan"
+    ],
+    "population": 3205958,
+    "ratified": 1896
+  },
+  {
+    "abbreviation": "VT",
+    "name": "Vermont",
+    "motto": "Freedom and unity",
+    "cities": [
+      "Montpelier (capital)",
+      "Burlington",
+      "Rutland",
+      "Colchester"
+    ],
+    "population": 623989,
+    "ratified": 1791
+  },
+  {
+    "abbreviation": "VA",
+    "name": "Virginia",
+    "motto": "Sic semper tyrannis",
+    "cities": [
+      "Richmond (capital)",
+      "Virginia Beach",
+      "Norfolk",
+      "Chesapeake"
+    ],
+    "population": 8535519,
+    "ratified": 1788
+  },
+  {
+    "abbreviation": "WA",
+    "name": "Washington",
+    "motto": "Al-ki",
+    "cities": [
+      "Olympia (capital)",
+      "Seattle",
+      "Spokane",
+      "Tacoma"
+    ],
+    "population": 7614893,
+    "ratified": 1889
+  },
+  {
+    "abbreviation": "WV",
+    "name": "West Virginia",
+    "motto": "Montani semper liberi",
+    "cities": [
+      "Charleston (capital)",
+      "Huntington",
+      "Parkersburg",
+      "Morgantown"
+    ],
+    "population": 1792147,
+    "ratified": 1863
+  },
+  {
+    "abbreviation": "WI",
+    "name": "Wisconsin",
+    "motto": "Forward",
+    "cities": [
+      "Madison (capital)",
+      "Milwaukee",
+      "Green Bay",
+      "Kenosha"
+    ],
+    "population": 5822434,
+    "ratified": 1848
+  },
+  {
+    "abbreviation": "WY",
+    "name": "Wyoming",
+    "motto": "Equal rights",
+    "cities": [
+      "Cheyenne (capital)",
+      "Casper",
+      "Laramie",
+      "Gillette"
+    ],
+    "population": 578759,
+    "ratified": 1890
+  }
+]
